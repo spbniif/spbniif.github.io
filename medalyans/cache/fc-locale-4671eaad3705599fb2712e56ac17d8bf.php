@@ -1,0 +1,10 @@
+<?php return array (
+  'plugins.generic.googleAnalytics.displayName' => 'Модуль «Google Analytics»',
+  'plugins.generic.googleAnalytics.description' => 'Интегрирует OJS с Google Analytics, приложением для анализа трафика веб-сайта от компании Google. Требует наличия у Вас учетной записи в системе Google Analytics. Пожалуйста, просмотрите <a href="http://www.google.com/analytics/" title="сайт Google Analytics">сайт Google Analytics</a> для получения более подробной информации.',
+  'plugins.generic.googleAnalytics.manager.settings.description' => '<p>При включении этого модуля можно использовать Google Analytics для сбора и анализа данных об использовании сайта и трафике. Обратите внимание, что этот модуль требует наличия у Вас учетной записи в системе Google Analytics. Пожалуйста, просмотрите <a href="http://www.google.com/analytics/" title="сайт Google Analytics">сайт Google Analytics</a> для получения более подробной информации.</p><p>Пожалуйста, обратите внимание, что Google Analytics может потребоваться до 24 часов для начала сбора статистики и формирования отчетов. В течение этого периода функция «Check Status» может неправильно отображать наличие требуемого для отслеживания кода.</p>',
+  'plugins.generic.googleAnalytics.manager.settings.googleAnalyticsSiteId' => 'Номер учетной записи',
+  'plugins.generic.googleAnalytics.manager.settings.googleAnalyticsSiteIdRequired' => 'Пожалуйста введите номер учетной записи.',
+  'plugins.generic.googleAnalytics.authorAccount' => 'Номер учетной записи Google Analytics',
+  'plugins.generic.googleAnalytics.authorAccount.description' => 'Чтобы отслеживать чтение опубликованной статьи с помощью Google Analytics, введите здесь номер учетной записи (например, UA-xxxxxx-x).',
+  'plugins.generic.googleAnalytics.authorAccountInvalid' => 'Один или несколько введенных номеров учетных записей Google Analytics, принадлежащих авторам материала, являются неправильными.',
+); ?>

@@ -1,0 +1,15 @@
+<?php return array (
+  'plugins.themes.default.name' => 'Модуль «Тема оформления по умолчанию»',
+  'plugins.themes.default.description' => 'Реализует тему оформления по умолчанию.',
+  'plugins.themes.default.option.typography.label' => 'Типографика',
+  'plugins.themes.default.option.typography.description' => 'Выберите комбинацию шрифтов, которая подходит для этого журнала.',
+  'plugins.themes.default.option.typography.notoSans' => 'Noto Sans: экранный шрифт, созданный Google для поддержки широкого спектра языков.',
+  'plugins.themes.default.option.typography.notoSerif' => 'Noto Serif: антиква, вариант экранного шрифта от Google с засечками.',
+  'plugins.themes.default.option.typography.notoSerif_notoSans' => 'Noto Serif/Noto Sans: дополняющая друг друга пара с заголовками антиквой и основным текстом, набранным гротеском.',
+  'plugins.themes.default.option.typography.notoSans_notoSerif' => 'Noto Sans/Noto Serif: дополняющая друг друга пара с заголовками гротеском и основным текстом, набранным антиквой.',
+  'plugins.themes.default.option.typography.lato' => 'Lato: популярный современный гротеск.',
+  'plugins.themes.default.option.typography.lora' => 'Lora: широкая антиква, удобная для чтения с экрана.',
+  'plugins.themes.default.option.typography.lora_openSans' => 'Lora/Open Sans: дополняющая друг друга пара с заголовками антиквой и основным текстом, набранным гротеском.',
+  'plugins.themes.default.option.colour.label' => 'Цвет',
+  'plugins.themes.default.option.colour.description' => 'Выбрать цвет для верхнего колонтитула.',
+); ?>
