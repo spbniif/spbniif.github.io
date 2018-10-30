@@ -1,0 +1,5432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>
+        <![CDATA[$course$/По умолчанию для Профессиональная переподготовка "Фтизиатрия" 01.04.2016-25.06.2016]]>
+</text>
+    </category>
+  </question>
+  <!-- question: 6500  -->
+  <question type="multichoice">
+    <name>
+      <text>001</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Под очагом туберкулезной инфекции следует понимать</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>больного, выделяющего МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>жилище больного, выделяющего МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>окружение больного, выделяющего МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6501  -->
+  <question type="multichoice">
+    <name>
+      <text>002</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-size: 12pt; font-family: 'times new roman';">&quot;Эндогенная реинфекция&quot; - это</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>активация ранее скрыто протекающего в организме очага туберкулезной инфекции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>возникновение очага туберкулезной инфекции во внутренних органах вследствие поступления инфекции в организм</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>активация скрыто протекающего в организме очага туберкулезной инфекции вследствие нового поступления инфекции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6502  -->
+  <question type="multichoice">
+    <name>
+      <text>003</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-size: 12pt; font-family: 'times new roman';">Основным источником туберкулезной инфекции для
+человека являются</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>предметы окружающей среды</text>
+      <feedback>
+        <text>
+          <![CDATA[<p class="MsoNormal"><br /></p><p class="MsoNormal"><br /></p>]]>
+</text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>продукты питания</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>больной человек</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6503  -->
+  <question type="multichoice">
+    <name>
+      <text>004</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Наибольшую роль в эпидемиологии и клинике туберкулеза
+человека играют микобактерии, относящиеся к </p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>комплексу Mycobacterium tuberculosis</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>комплексу Mycobacterium avium</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>комплексу Mycobacterium fortuitim</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6504  -->
+  <question type="multichoice">
+    <name>
+      <text>005</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Вакцинация и ревакцинация БЦЖ осуществляется</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>работниками общей лечебной сети</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>работниками службы Росздравнадзора</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>врачами-фтизиопедиатрами</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>врачами-фтизиатрами</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6505  -->
+  <question type="multichoice">
+    <name>
+      <text>006</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Показатель заболеваемости населения туберкулезом представляет собой</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>число впервые выявленных больных туберкулезом в текущем году, рассчитанное на 100 тысяч среднегодового населения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>все больные активным туберкулезом, состоящие под диспансерным наблюдением в I и II группах учета, и рассчитанный на 100 тыс. населения, зарегистрированного на конец отчетного года</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>отношение числа первичных обращений по поводу туберкулеза к средней численности населения, умноженное на 1000</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6506  -->
+  <question type="multichoice">
+    <name>
+      <text>007</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Послевакцинальный иммунитет формируется в течение</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>2 лет</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>1 года</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>5 лет</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6507  -->
+  <question type="multichoice">
+    <name>
+      <text>008</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Какие тесты этиологической диагностики должны применяться на
+первом этапе обследования больного с целью выявления туберкулеза</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>микроскопия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>молекулярно-генетические методы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>посев</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6508  -->
+  <question type="multichoice">
+    <name>
+      <text>009</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">К основным биологическим особенностям микобактерий туберкулеза, которые делают их устойчивыми к внешним воздействиям, относятся</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>своеобразное строение оболочки микобактерий</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>усиленное размножение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>среда обитания и способность вырабатывать устойчивость к химиопрепаратам</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>большое содержание липидов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6509  -->
+  <question type="multichoice">
+    <name>
+      <text>01 р</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<font face="Times New Roman" size="2">Рентгенологический синдром - это </font>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>совокупность скиалогических признаков патологической тени</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>совокупность рентгенологических симптомов, объединенных единым патогенезом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>теневая картина, требующая проведения дифференциальной диагностики</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>нарушение функционального состояния органа</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6510  -->
+  <question type="multichoice">
+    <name>
+      <text>010</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Как отмечаются положительные и отрицательные результаты
+микроскопии мокроты в карте № 1-ТБ и Журнале № 3-ТБ?</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-33.333">
+      <text>Знаками «-» и «+»</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>Отр. и пол.</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>1+, 2+,3+, «точное число» КУМ и «отр.»</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>Любым из перечисленных методов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6511  -->
+  <question type="multichoice">
+    <name>
+      <text>011</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">В клинической практике чаще всего наблюдается</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>аэрогенный путь заражения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>алиментарный путь заражения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>трансплацентарный путь заражения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>контактный путь заражения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6512  -->
+  <question type="multichoice">
+    <name>
+      <text>012</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Нетуберкулезные (атипичные) микобактерии могут вызывать у человека</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text>пневмонию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>лепру</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>туберкулез</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>бронхиты</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>микобактериозы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6513  -->
+  <question type="multichoice">
+    <name>
+      <text>013</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Лица с остаточными изменениями ранее перенесенного
+туберкулеза</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>заболевают туберкулезом реже населения, не имеющего на рентгенограмме остаточных туберкулезных изменений</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>одинаково часто заболевают, как и население, не имеющее остаточных туберкулезных изменений</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>в несколько раз чаще заболевают туберкулезом по сравнению с лицами, не имеющими на рентгенограмме остаточных туберкулезных изменений</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6514  -->
+  <question type="multichoice">
+    <name>
+      <text>014</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Важнейшей функцией нижних отделов дыхательных путей (бронхов
+7-10-го порядка и более мелких) являются</p><p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>проведение воздуха</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>кондиционирование воздуха (согревание, увлажнение, очищение)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>распределение воздуха</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6515  -->
+  <question type="multichoice">
+    <name>
+      <text>015</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal">Плевральные листки выполняют следующие функции</p>
+<p class="MsoNormal"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>функцию барьера</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>поддержание капиллярного слоя жидкости в плевральной щели</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>участие в эластической тяге легкого</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>обеспечение равномерной вентиляции паренхимы легкого</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>обеспечение равномерного кровотока в системе бронхиальных артерий</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6516  -->
+  <question type="multichoice">
+    <name>
+      <text>016</text>
+    </name>
+    <questiontext format="html">
+      <text>Эпителиоидно- и гигантоклеточная гранулема с клетками Лангханса наблюдается</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>только при туберкулезе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>при туберкулезе и саркоидозе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>при туберкулезе, саркоидозе, раке, бериллеозе и некоторых других заболеваниях</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6517  -->
+  <question type="multichoice">
+    <name>
+      <text>017</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<font face="Times New Roman, serif"><span style="font-size: 15px; line-height: 16.866666793823242px;">Семейный анамнез представляет для фтизиатра интерес с точки зрения</span></font>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>наличия или отсутствия контакта с родственниками, больными заразной формой туберкулеза</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>семейной предрасположенностью к бронхо-легочным заболеваниям</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6518  -->
+  <question type="multichoice">
+    <name>
+      <text>018</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<font face="Times New Roman, serif"><span style="font-size: 15px; line-height: 16.866666793823242px;">Уровни мер инфекционного контроля включают</span></font>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>программные (управленческие) меры</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>административные меры</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>инженерно-технические меры</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>санитарно-эпидемические</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>индивидуальная защита</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6519  -->
+  <question type="multichoice">
+    <name>
+      <text>019</text>
+    </name>
+    <questiontext format="html">
+      <text>Распределение очагов в легких при остром милиарном туберкулезе</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>равномерное</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>неравномерное</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>групповое</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6520  -->
+  <question type="multichoice">
+    <name>
+      <text>020</text>
+    </name>
+    <questiontext format="html">
+      <text>Туберкулез внутригрудных лимфатических узлов требует проведения дифференциальной диагностики</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>с неспецифическим лимфаденитом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>с лимфопролиферативными заболеваниями</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>с саркоидозом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>со злокачественной опухолью</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6521  -->
+  <question type="multichoice">
+    <name>
+      <text>021</text>
+    </name>
+    <questiontext format="html">
+      <text>Инфильтративный туберкулез легких - это</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-33.333">
+      <text>туберкулез легких, характеризующийся участком затемнения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>туберкулез легких, проявляющийся клиникой пневмонии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>туберкулез легких, характеризующийся воспалительными изменениями с преобладанием экссудативного компонента и казеозным некрозом в центре</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6522  -->
+  <question type="multichoice">
+    <name>
+      <text>022</text>
+    </name>
+    <questiontext format="html">
+      <text>Казеозная пневмония характеризуется</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>скудным выделением МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>обильным выделением МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>редким выделением МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>однократным выделением МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6523  -->
+  <question type="multichoice">
+    <name>
+      <text>023</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[Результаты каких диагностических тестов могут использоваться при классификации больного как &quot;бациллярного&quot;]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>Микроскопии мазка</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>Молекулярно-генетических методов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>Посева</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6524  -->
+  <question type="multichoice">
+    <name>
+      <text>024</text>
+    </name>
+    <questiontext format="html">
+      <text>Туберкулезный сепсис чаще возникает</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-25">
+      <text>у больных туберкулезом из МЛУ-очага</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>у больных ВИЧ-инфекцией при количестве СД4-клеток более 350 клеток/мкл</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>у больных аутоиммунными заболеваниями</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>у больных ВИЧ-инфекцией при глубоком иммунодефиците (количество СД4-клеток менее 50 клеток/мкл)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>у больных сахарным диабетом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6525  -->
+  <question type="multichoice">
+    <name>
+      <text>025</text>
+    </name>
+    <questiontext format="html">
+      <text>В лаважной жидкости, полученной из легкого здорового человека, преобладают</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>нейтрофилы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>лимфоциты</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>альвеолярные макрофаги</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6526  -->
+  <question type="multichoice">
+    <name>
+      <text>026</text>
+    </name>
+    <questiontext format="html">
+      <text>Течение туберкулеза после родов чаще</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>благоприятное</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>не отличается от имевшего место во время беременности</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>характеризуется значительной опасностью прогрессирования процесса</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6527  -->
+  <question type="multichoice">
+    <name>
+      <text>027</text>
+    </name>
+    <questiontext format="html">
+      <text>Основной причиной перехода первичного инфицирования в заболевание туберкулезом является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>массивная суперинфекция</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>неблагоприятный преморбидный фон, интеркуррентные заболевания</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>возрастная несостоятельность иммунных механизмов и несостоятельность вакцинного иммунитета</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>организационные дефекты в выявлении и лечении детей в раннем периоде первичной туберкулезной инфекции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6528  -->
+  <question type="multichoice">
+    <name>
+      <text>028</text>
+    </name>
+    <questiontext format="html">
+      <text>Для верификации диагноза при шаровидной тени, локализующейся в глубине сегмента легкого, целесообразно применять</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>трансторакальную игловую биопсию легкого</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>трансторакальную щипцовую биопсию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>чрезбронхиальную щипцовую биопсию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>медиастиноскопию с биопсией</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6529  -->
+  <question type="multichoice">
+    <name>
+      <text>029</text>
+    </name>
+    <questiontext format="html">
+      <text>При лимфогранулематозе чаще увеличиваются</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>лимфоузлы верхнего средостения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>бронхопульмональные лимфоузлы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>медиастинальные лимфоузлы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6530  -->
+  <question type="multichoice">
+    <name>
+      <text>030</text>
+    </name>
+    <questiontext format="html">
+      <text>Ведущим клиническим признаком туберкулеза бронхов является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>повышение температуры тела до фебрильных цифр и выше</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>кашель</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>одышка</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>симптомы интоксикации</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>бессимптомное течение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6531  -->
+  <question type="multichoice">
+    <name>
+      <text>031</text>
+    </name>
+    <questiontext format="html">
+      <text>Для диагностики туберкулеза мочевой системы особенно у детей и подростков следует учитывать</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>наличие контакта с больными туберкулезом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>ранее перенесенный внелегочный туберкулез</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>текущий туберкулез других локализаций</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6532  -->
+  <question type="multichoice">
+    <name>
+      <text>032</text>
+    </name>
+    <questiontext format="html">
+      <text>Оптимальным вариантом лечебных мероприятий при туберкулезе глаз является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>общее лечение противотуберкулезными препаратами</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>местное лечение противотуберкулезными препаратами</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6533  -->
+  <question type="multichoice">
+    <name>
+      <text>033</text>
+    </name>
+    <questiontext format="html">
+      <text>Наиболее частым осложнением периферического туберкулезного лимфаденита является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>образование свищей</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>кровотечение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>аллергические реакции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6534  -->
+  <question type="multichoice">
+    <name>
+      <text>034</text>
+    </name>
+    <questiontext format="html">
+      <text>Туберкулез периферических лимфатических узлов чаще всего сочетается</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>с туберкулезом легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>с костно-суставным туберкулезом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>с туберкулезом почек</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>с туберкулезом внутригрудных лимфатических узлов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6535  -->
+  <question type="multichoice">
+    <name>
+      <text>035</text>
+    </name>
+    <questiontext format="html">
+      <text>Основным методом в дифференциальной диагностике туберкулезного менингита от других заболеваний центральной нервной системы является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>клинический анализ крови</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>биохимическое исследование крови</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>исследование спинномозговой жидкости</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>компьютерная томография</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6536  -->
+  <question type="multichoice">
+    <name>
+      <text>036</text>
+    </name>
+    <questiontext format="html">
+      <text>Основными механизмами действия химиопрепаратов на микробную популяцию являются</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>бактериостатический эффект</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>бактерицидный эффект</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50">
+      <text>ограничение распространения в организме возбудителя заболевания со стимуляцией защитных и иммунных сил организма</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6537  -->
+  <question type="multichoice">
+    <name>
+      <text>037</text>
+    </name>
+    <questiontext format="html">
+      <text>Основным принципом, на котором основана современная группировка противотуберкулезных препаратов, является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>химическое строение препаратов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>эффективность препаратов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>величина минимальной тормозящей концентрации</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>особенности фармакокинетики</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6538  -->
+  <question type="multichoice">
+    <name>
+      <text>038</text>
+    </name>
+    <questiontext format="html">
+      <text>Кто может контролировать прием противотуберкулезных препаратов больным</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>фельдшер ФАПа</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>медицинская сестра поликлиники общей лечебной сети</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>медицинская сестра противотуберкулезного учреждения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>доброволец-член семьи больного</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6539  -->
+  <question type="multichoice">
+    <name>
+      <text>039</text>
+    </name>
+    <questiontext format="html">
+      <text>Патогенетическая терапия при туберкулезе имеет цель</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>повысить сопротивляемость организма</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>повысить концентрацию химиопрепаратов в очаге поражения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>замедлить формирование рубцовой ткани</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>подавить или усилить воспалительную реакцию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6540  -->
+  <question type="multichoice">
+    <name>
+      <text>040</text>
+    </name>
+    <questiontext format="html">
+      <text>При тяжелой интоксикации у больного туберкулезом первым врачебным назначением должна быть</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>комбинированная терапия туберкулостатическими препаратами с введением части из них внутривенно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>оксигенотерапия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>инфузионная терапия (мафусол, ремаксол и др.) или гемосорбция (плазмаферез)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6541  -->
+  <question type="multichoice">
+    <name>
+      <text>041</text>
+    </name>
+    <questiontext format="html">
+      <text>Широкая лекарственная устойчивость МБТ – это</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>устойчивость как минимум к рифампицину и изониазиду</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>устойчивость ко всем противотуберкулезным препаратам</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>устойчивость к основным противотуберкулезным препаратам и двум резервным</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>устойчивость к рифампицину и изониазиду в сочетании с устойчивостью к фторхинолонам и одному из инъекционных препаратов (канамицин, амикацин, капреомицин)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>устойчивость к рифампицину и изониазиду в сочетании с устойчивостью к фторхинолонам и тиоамидам</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6542  -->
+  <question type="multichoice">
+    <name>
+      <text>042</text>
+    </name>
+    <questiontext format="html">
+      <text>Атипичная резекция легкого - это</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>удаление клиновидного участка легкого</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>удаление края легочной ткани</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>удаление краевого отдела легкого по плоскости</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>удаление участка легкого без учета его анатомических границ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6543  -->
+  <question type="multichoice">
+    <name>
+      <text>043</text>
+    </name>
+    <questiontext format="html">
+      <text>Спонтанный пневмоторакс - это</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>пневмоторакс, возникший без видимых причин (травма, врачебная манипуляция) у здорового до этого человека</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>пневмоторакс, возникший без видимых причин у человека, страдающего бронхо-легочным заболеванием</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>пневмоторакс, возникший у больного с нагноительным заболеванием легких или туберкулезом легких вследствие прорыва гнойника (каверны) в плевральную полость</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>пневмоторакс, возникший по ходу медицинского мероприятия (биопсия, реанимация, искусственная вентиляция легких)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6544  -->
+  <question type="multichoice">
+    <name>
+      <text>044</text>
+    </name>
+    <questiontext format="html">
+      <text>Искусственная облитерация плевральной полости (с помощью медикаментов, операции) называется</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>плеврэктомия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>плевродез</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>превролиз</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6545  -->
+  <question type="multichoice">
+    <name>
+      <text>045</text>
+    </name>
+    <questiontext format="html">
+      <text>Чаще других животных источником заражения человека туберкулезом могут явиться</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>крупный и мелкий рогатый скот</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>собаки</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>кошки</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>птицы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>мыши</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6546  -->
+  <question type="multichoice">
+    <name>
+      <text>046</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div><div>Наиболее характерной особенностью саркоидоза органов дыхания является</div><div><br /></div></div><div><br /></div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>соответствие клинических данных рентгенологической картине</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>скудность клиники при значительных рентгенологических изменениях в легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>выраженная клиника при незначительных рентгенологических изменениях в легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6547  -->
+  <question type="multichoice">
+    <name>
+      <text>047</text>
+    </name>
+    <questiontext format="html">
+      <text>Полиморфизм очаговых теней в легких определяют перечисленные ниже признаки</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>разная локализация</text>
+      <feedback>
+        <text>
+          <![CDATA[<div><br /></div><div><br /></div><div><br /></div>]]>
+</text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>разная интенсивность</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>разная форма</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>разный характер контура</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>разная величина</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6548  -->
+  <question type="multichoice">
+    <name>
+      <text>048</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Повышает операбельность больных, страдающих фиброзно-кавернозным туберкулезом легких</div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>применение наряду с резекцией легкого (лобэктомией и пневмонэктомией) торакопластики и кавернотомии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>
+        <![CDATA[лечение хронического "легочного сердца" и дыхательной недостаточности]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>лечение сопутствующих заболеваний</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>предоперационная интенсивная специфическая химиотерапия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6549  -->
+  <question type="multichoice">
+    <name>
+      <text>049</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Основными рентгенологическими признаками гиповентиляции являются</div><div><br /></div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-50">
+      <text>смещение средостения в здоровую сторону</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>понижение прозрачности (сегмента, доли)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>смещение средостения в пораженную сторону</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6550  -->
+  <question type="multichoice">
+    <name>
+      <text>050</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Наиболее результативным методом верификации саркоидоза органов дыхания II стадии является</div><div><br /></div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>прескаленная биопсия лимфатических узлов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>медиастископия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>открытая биопсия легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>трансбронхиальная пункция лимфоузлов средостения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>видеоторакоскопическая биопсия легкого</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6551  -->
+  <question type="multichoice">
+    <name>
+      <text>э 01</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<font face="Times New Roman" size="2">Каков размер вдыхаемых аэрозолей, достигающих альвеол периферических отделов легкого</font>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>30 - 50 микрометров в диаметре</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>менее 5 микрометров в диаметре</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>15 - 30 микрометров в диаметре</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>5 - 15 микрометров в диаметре</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6552  -->
+  <question type="multichoice">
+    <name>
+      <text>э 02</text>
+    </name>
+    <questiontext format="html">
+      <text>Трансторакальная биопсия наиболее эффективно применяется&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>при пристеночных образованиях грудной полости</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>при междолевых плевритах</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>при долевых ателектазах</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>при патологических образованиях корней легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6553  -->
+  <question type="multichoice">
+    <name>
+      <text>э 03</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-size: 10pt; font-family: 'times new roman';">Анатомическим субстратом легочного рисунка в норме является</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>бронхиальное дерево</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>разветвление бронхиальных артерий</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>разветвление легочных артерий и вен</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>лимфатические сосуды</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6554  -->
+  <question type="multichoice">
+    <name>
+      <text>э 04</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-size: 10pt; font-family: 'times new roman';">Для туберкулезного бронхоаденита наиболее характерно </span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>двустороннее поражение внутригрудных лимфатических узлов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>одностороннее увеличение одной-двух групп внутригрудных лимфоузлов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>расширение корня с сохранением его структуры</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>двусторонне расширение корней легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6555  -->
+  <question type="multichoice">
+    <name>
+      <text>э 05</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-family: 'times new roman';">Достоверная диагностика бронхоэктазов возможна при использовании: </span><br style="font-family: 'times new roman';" /><br style="font-family: 'times new roman';" /><br />]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>рентгенографии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ангиопульмонографии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>бронхографии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>компьютерной томографии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6556  -->
+  <question type="multichoice">
+    <name>
+      <text>э 06</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-family: arial, sans-serif; font-size: 13px;">Вакцины БЦЖ вводятся</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>внутрь и интраназально</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>внутримышечно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>накожно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>подкожно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>внутрикожно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6557  -->
+  <question type="multichoice">
+    <name>
+      <text>э 07</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-family: arial, sans-serif; font-size: 13px; text-align: justify;">Субстратом синдрома &quot;кольцевидная тень&quot; является:</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>кальцинаты</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>жидкость</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>уплотнение легочной ткани</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>полость</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6558  -->
+  <question type="multichoice">
+    <name>
+      <text>э 08</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-family: arial, sans-serif; font-size: 13px; text-align: justify;">&quot;Суперинфекция&quot; при туберкулеза - это:</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>заболевание вследствие поступления инфекции извне в уже инфицированный организм</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>заболевание, возникшее вследствие экзогенного инфицирования</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>заболевание, наступившее вследствие длительного контакта с бактериовыделителем</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6559  -->
+  <question type="multichoice">
+    <name>
+      <text>э 09</text>
+    </name>
+    <questiontext format="html">
+      <text>Диагностическое рентгенологическое исследования легких требует получения рентгенограмм в следующих проекциях:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>косой</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>правой или левой боковой</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>задней</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>передней</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6560  -->
+  <question type="multichoice">
+    <name>
+      <text>э 10</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<span style="font-family: arial, sans-serif; font-size: 13px; text-align: justify;">Патоморфоз туберкулеза - это:</span>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>изменение клинического течения и морфологических проявлений инфекционного процесса</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>уменьшение заболеваемости населения туберкулезом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>уменьшение смертности от туберкулеза</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>снижение инфицированности населения туберкулезом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>увеличение числа случаев инфильтративного туберкулеза</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6561  -->
+  <question type="multichoice">
+    <name>
+      <text>э 11</text>
+    </name>
+    <questiontext format="html">
+      <text>При высокой активности туберкулезного воспалительного процесса в очаге поражения</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>казеозные массы компактны, среди них имеются участки отложения солей кальция. При окраске по Циль-Нельсену КУМ в них не обнаруживаются</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>казеозные массы разрыхлены, среди них имеются скопления лимфоцитов и единичные нейтрофилы. При окраске по Циль-Нельсену КУМ в них не обнаруживаются</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>казеозные массы разрыхлены, среди них имеются их расплавления с большой инфильтрацией казеозных масс нейтрофилами. При окраске по Циль-Нельсену КУМ в них обнаруживаются</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6562  -->
+  <question type="multichoice">
+    <name>
+      <text>э 12</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p align="JUSTIFY" style="font-family: arial, sans-serif; font-size: 13px;">Больному с бессимптомно протекающим диссеминированным поражением легкого, природу которого не удалось уточнить с помощью трансбронхиальной биопсии легкого, а также при трансторакальной биопсии легкой иглой для выявления диагноза заболевания следует рекомендовать:</p><p style="font-family: arial, sans-serif; font-size: 13px;"><br /></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>динамическое наблюдение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>пробное лечение, выбор препарата определяется наиболее вероятным видом патологии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>видеоторакоскопическую/открытую биопсию легкого</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6563  -->
+  <question type="multichoice">
+    <name>
+      <text>э 13</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Клинический скрининг туберкулеза у больных ВИЧ-инфекцией включает следующие 4 симптома:</div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>кашель+лихорадка+ боли в спине+ ночная потливость</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>снижение веса+ кровохарканье+лихорадка+головная боль</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>диарея+ночная потливость+ кашель+утомляемость</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>ночная потливость+ снижение веса+ кашель+лихорадка</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>потливость+ снижение аппетита+ кашель+ боли в правом подреберье</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6564  -->
+  <question type="multichoice">
+    <name>
+      <text>э 14</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal" style="margin: 0px 0px 1.2em; font-family: georgia, 'times new roman', times, serif; font-size: 15px; line-height: 22.49100112915039px;">Синдром Лѐфгрена включает в себя</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>узловатую эритему, лихорадку, суставной синдром и увеличение внутригрудных лимфатических узлов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>лихорадку, увеличение околоушных слюнных желѐз, увеитегочных вен</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>паралич Белла, озноблѐнную волчанку и снижение ЖЕЛ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>иридоциклит, лихорадку и гиперкальциемию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>увеличение СОЭ, общего белка сыворотки крови и задний увеит</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6565  -->
+  <question type="multichoice">
+    <name>
+      <text>э 15</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoPlainText">На обзорной и боковой рентгенограммах грудной клетки больного 20 лет средняя доля правого легкого уменьшена в объеме и гомогенно затемнена, структура тени правого корня легкого смазана, правый купол диафрагмы расположен на уровне 5-го межреберья. Для уточнения диагноза больному необходимо</p><p class="MsoPlainText"></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>исследовать мокроту на атипичные клетки</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>исследовать мокроту на МБТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>произвести фибробронхоскопию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>провести пробное лечение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6566  -->
+  <question type="multichoice">
+    <name>
+      <text>э 16</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoPlainText">Массовое флюорографическое обследование населения, не относящегося к группам риска и декретированным контингентам, рекомендуется проводить с частотой</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>дважды в год</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ежегодно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>не реже 1 раза в 2 года</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6567  -->
+  <question type="multichoice">
+    <name>
+      <text>э 17</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>При патологических процессах в лимфатических узлах средостения для дифференциальной диагностики оптимальным является применение</div><div><br /></div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>компьютерной томографии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>компьютерной томографии с контрастированием</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>томографию с поперечным направлением размазывания</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>томографию с продольным направлением размазывания</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>томографию средостения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6568  -->
+  <question type="multichoice">
+    <name>
+      <text>э 18</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Локальные проявления туберкулезной инфекции чаще всего выявляются у детей</div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>в кровеносной системе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>в кроветворной системе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>в бронхиальной системе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>в лимфатической системе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6569  -->
+  <question type="multichoice">
+    <name>
+      <text>э 19</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Деструкция в туберкулеме чаще локализуется</div><div> </div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>в верхнем полюсе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>в центре</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>у нижнего полюса</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>эксцентрично</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6570  -->
+  <question type="multichoice">
+    <name>
+      <text>э 20</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Причины несвоевременного выявления мочеполового туберкулеза:</div><div><br /></div><div><br /></div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>отсутствие в стандартах обследования пациента с урогенитальными инфекциями исследования материала на микобактерии туберкулеза (посев, микроскопия, ПЦР-диагностика)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>изменчивость свойств микобактерии туберкулеза, склонность к персистенции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>полиморфизм мочеполового туберкулеза и вариабельность его клинической картины</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>неоптимальная эмпирическая терапия урогенитальных инфекций</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>отсутствие настороженности врачей общей лечебной сети</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6571  -->
+  <question type="multichoice">
+    <name>
+      <text>э 21</text>
+    </name>
+    <questiontext format="html">
+      <text>Каковы наиболее частые причины инвалидности при мочеполовом туберкулезе</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>хроническая почечная недостаточность</text>
+      <feedback>
+        <text>
+          <![CDATA[<div><br /></div><div><br /></div>]]>
+</text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>нефрогенная артериальная гипертензия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>мочекаменная болезнь</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>хронический пиелонефрит</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.333">
+      <text>вторичное бесплодие</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6572  -->
+  <question type="multichoice">
+    <name>
+      <text>э 22</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Основные принципы лечения костно-суставного туберкулеза:</div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>лечение должно быть комплексным: на фоне противотуберкулезного лечения используются хирургические методики вне зависимости от стадии костно-суставного туберкулеза</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>лечение должно быть комплексным: на фоне противотуберкулезного лечения используются консервативно-ортопедические методики вне зависимости от стадии костно-суставного туберкулеза</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>лечение должно быть комплексным: на фоне противотуберкулезного лечения используются хирургические методики в постартритической (постспондилитической) фазе костно-суставного туберкулеза</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6573  -->
+  <question type="multichoice">
+    <name>
+      <text>э 23</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Трансформация легочного туберкулеза в фазе распада в кавернозный может происходить</div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>спонтанно, без проведения лечебных мероприятий</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>на фоне противотуберкулезного лечения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>и в том, и в другом случае</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ни в том, и ни в другом случае</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6574  -->
+  <question type="multichoice">
+    <name>
+      <text>э 24</text>
+    </name>
+    <questiontext format="html">
+      <text>Исход химиотерапии у больного с туберкулезом органов дыхания с МЛУ возбудителя, получившего все дозы препаратов, предусмотренные режимом химиотерапии, у которого к концу курса зарегистрировано 3 отрицательных результата посева мокроты за последние 12 месяцев фазы продолжения и впоследствии выбывшего из РФ:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>эффективный курс химиотерапии, подтвержденный посевом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>эффективный курс химиотерапии, подтвержденный клинико-рентгенологически</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>неэффективный курс химиотерапии, подтвержденный посевом и данными клинико-рентгенологического исследования</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>прерванный курс</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>выбывший</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6575  -->
+  <question type="multichoice">
+    <name>
+      <text>э 25</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>На основании результатов каких методов исследования верифицируются активные формы костно-суставного туберкулеза?</div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>лучевых и морфологических</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>морфологических и бактериологических</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>бактериологических и лучевых</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>иммунологических и лучевых</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6576  -->
+  <question type="multichoice">
+    <name>
+      <text>э 26</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Регистрационная группа больного туберкулезом, у которого вновь появились признаки активного туберкулеза и было выявлено наличие МЛУ МБТ после эффективного курса химиотерапии по 1 режиму</div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>рецидив</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>впервые выявленный</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>после прерывания курса химиотерапии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>после неэффективного курса химиотерапии по 1/3 режиму</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>прочие</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6577  -->
+  <question type="multichoice">
+    <name>
+      <text>э 27</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Какая локализация поражения преобладает в структуре костно-суставного туберкулеза? </div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>тазобедренный сустав</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>суставы стопы, кисти, стоп, плоские кости</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>позвоночник</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>коленный сустав</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6578  -->
+  <question type="multichoice">
+    <name>
+      <text>э 28</text>
+    </name>
+    <questiontext format="html">
+      <text>Показаниями к проведению операций при туберкулезе мочевой системы &#160;являются&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>наличие кисты или деструкции в пораженной почке</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>появление микобактерий туберкулеза в моче</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>обнаружение малого мочевого пузыря</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>отсутствие или резкое снижение функции органа</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6579  -->
+  <question type="multichoice">
+    <name>
+      <text>э 29</text>
+    </name>
+    <questiontext format="html">
+      <text>Основным путем выявления туберкулеза мочеполовой системы является&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>обследование контактов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>обращение к врачу</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>систематическая постановка туберкулиновых проб</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>исследование анализа мочи</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>проведение обзорной рентгенографии органов брюшной полости</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6580  -->
+  <question type="multichoice">
+    <name>
+      <text>э 30</text>
+    </name>
+    <questiontext format="html">
+      <text>Показаниями к экстренным операциям при туберкулезе органов дыхания являются</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>неуклонное прогрессирование туберкулеза, несмотря на адекватную противотуберкулезную химиотерапию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>профузное легочное кровотечение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>повторное кровохарканье, которое не может быть остановлено другими методами лечения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>напряженный спонтанный пневмоторакс</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6581  -->
+  <question type="multichoice">
+    <name>
+      <text>э 31</text>
+    </name>
+    <questiontext format="html">
+      <text>Среди инструментальных методов исследования &#160;наибольшее значение для распознавания туберкулеза мочевого пузыря &#160;имеет&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>ретроградная пиелография</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>цистоскопия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>внутривенная урография</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>инфузионная урография</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>хромоцистография</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6582  -->
+  <question type="multichoice">
+    <name>
+      <text>э 32</text>
+    </name>
+    <questiontext format="html">
+      <text>Туберкулезные изменения в почке локализуются преимущественно&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>в мозговом слое</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>в корковом слое</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>в чашечно-лоханочной системе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6583  -->
+  <question type="multichoice">
+    <name>
+      <text>э 33</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Показаниями к неотложным операциям при туберкулезе органов дыхания являются
+</div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>неуклонное прогрессирование туберкулеза, несмотря на адекватную противотуберкулезную химиотерапию</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>профузное легочное кровотечение</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>повторное кровохарканье, которое не может быть остановлено другими методами лечения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>напряженный спонтанный пневмоторакс</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6584  -->
+  <question type="multichoice">
+    <name>
+      <text>э 34</text>
+    </name>
+    <questiontext format="html">
+      <text>Показаниями к плановым операциям при туберкулезе органов дыхания являются</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>повторное кровохарканье, которое не может быть остановлено другими методами лечения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>напряженный пневмоторакс</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>формы деструктивного туберкулеза с продолжающимся бактериовыделением после 4-6 месяцев контролируемой противотуберкулезной химиотерапии, подтвержденным бактериологическим исследованием и тестом на лекарственную устойчивость</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>МЛУ/ШЛУ-ТБ, характеризующийся неудачей противотуберкулезной химиотерапии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6585  -->
+  <question type="multichoice">
+    <name>
+      <text>э 35</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p class="MsoNormal" style="margin-bottom: 0.0001pt;"><span style="font-size: 13.3333330154419px;"><b>Особенности туберкулеза, не характерные для поздних стадий ВИЧ-инфекции</b></span></p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Экссудативный характер воспаления</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Течение по типу сепсиса</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Остропрогрессирующий характер</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Высокая частота внелегочного поражения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Высокая частота деструктивных изменений в легочной ткани</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6586  -->
+  <question type="multichoice">
+    <name>
+      <text>э 36</text>
+    </name>
+    <questiontext format="html">
+      <text>Наибольшую ценность при диагностике туберкулезного менингита имеют изменения в</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>спинно-мозговой жидкости</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>биохимии крови</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>гемограмме</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>мокроте</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>моче</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6587  -->
+  <question type="multichoice">
+    <name>
+      <text>э 37</text>
+    </name>
+    <questiontext format="html">
+      <text>Туберкулезные изменения в почке локализуются преимущественно&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>в мозговом слое</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>в корковом слое</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>в чашечно-лоханочной системе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6588  -->
+  <question type="multichoice">
+    <name>
+      <text>э 38</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>В субклинической стадии ВИЧ-инфекции туберкулез протекает: </div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>с атипичными легочными проявлениями</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>также, как у больных с ВИЧ-негативным статусом</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>быстро прогрессирует с генерализацией туберкулезного процесса</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>без выраженных клинических симптомов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>инаперцептно</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6589  -->
+  <question type="multichoice">
+    <name>
+      <text>э 39</text>
+    </name>
+    <questiontext format="html">
+      <text>Ранний клинический признак туберкулезного спондилита - это&#160;</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>боль в области позвоночника при ходьбе</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ограничение подвижности в области позвоночника</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>боль в области позвоночника в покое</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>нарушение функции тазовых органов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6590  -->
+  <question type="multichoice">
+    <name>
+      <text>э 40</text>
+    </name>
+    <questiontext format="html">
+      <text>Какое из перечисленных утверждений верно в отношении синдрома восстановления (реконституции) иммунной системы</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>
+        <![CDATA[обычно развивается у больных с уровнем CD4 до начала АРВТ <50 кл/мкл через 1-8 нед после начала АРВТ]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[обычно развивается у больных с уровнем CD4 до начала АРВТ > 250 кл/мкл]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[обычно развивается у больных с уровнем CD4 до начала АРВТ <250 кл/мкл]]>
+</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>отмечается быстрое улучшение самочувствия больного</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>характерно быстрое снижение вирусной нагрузки</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6591  -->
+  <question type="multichoice">
+    <name>
+      <text>э 41</text>
+    </name>
+    <questiontext format="html">
+      <text>В каком нормативном документе определены сроки (кратность) прохождения медицинских осмотров на туберкулез различных категорий населения</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>приказ МЗ РФ от 21.03.2003 №109</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>санитарно-эпидемиологические правила СП 3.1.1295-03</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>приказ МЗ РФ от 13.02.2004 №50</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>приказ МЗ РФ от 15.10.2012 №932н</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>приказ МЗ РФ от 05.02.2010 №61</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6592  -->
+  <question type="multichoice">
+    <name>
+      <text>э 42</text>
+    </name>
+    <questiontext format="html">
+      <text>Для идентификации нетуберкулезных микобактерий наиболее достоверны</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>биологические методы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>биохимические методы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>иммунологические методы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>культуральные методы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>молекулярно-генетические методы</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6593  -->
+  <question type="multichoice">
+    <name>
+      <text>э 43</text>
+    </name>
+    <questiontext format="html">
+      <text>Лечение туберкулеза у больных ВИЧ-инфекцией</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>не отличаются от лечения туберкулеза у больных без ВИЧ-инфекции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>требует назначения полной дозы противотуберкулезных препаратов при раннем назначении ВААРТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>следует за назначением ВААРТ, имеющим первостепенное значение в лечении сочетанной инфекции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>требует снижения доз всех противотуберкулезных препаратов в связи с лекарственными взаимодействиями с ВААРТ</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>требует снижение доз в связи с высоким риском тяжелых побочных эффектов</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6594  -->
+  <question type="multichoice">
+    <name>
+      <text>э 44</text>
+    </name>
+    <questiontext format="html">
+      <text>Общая плетизмография тела позволяет произвести</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>изучение работы дыхания</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>исследование растяжимости легких</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>измерение внутрипищеводного давления</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>прямое измерение величины бронхиального сопротивления</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6595  -->
+  <question type="multichoice">
+    <name>
+      <text>э 45</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>Величина диффузионной способности легких, зависит от всех перечисленных физиологических параметров, исключая</div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>объем альвеолярной вентиляции</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>толщину альвеолярно-капиллярной мембраны</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>объем крови в легочных капиллярах</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6596  -->
+  <question type="multichoice">
+    <name>
+      <text>э 46</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<div>При обструктивных вентиляционных нарушениях проба Тиффно</div><div><br /></div>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>увеличена</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>нормальная</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>снижена</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6597  -->
+  <question type="multichoice">
+    <name>
+      <text>э 47</text>
+    </name>
+    <questiontext format="html">
+      <text>Среди всех технологий иммунодиагностики туберкулеза наиболее перспективным у ЛЖВ (лиц, живущих с ВИЧ-инфекцией) является</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>проба Манту</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>диаскинтест</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>квантифероновый тест</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ИФА c туберкулезным антигеном</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Т-SPOT тест</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6598  -->
+  <question type="multichoice">
+    <name>
+      <text>э 48</text>
+    </name>
+    <questiontext format="html">
+      <text>Наиболее эффективный метод при лечении никотиновой зависимости</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>сочетание фармакологической и поведенческой терапии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Фармакологическая терапия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Поведенческая терапия</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6599  -->
+  <question type="multichoice">
+    <name>
+      <text>э 49</text>
+    </name>
+    <questiontext format="html">
+      <text>На каких стадиях табакокурения при отказе от него возникает абстинентный синдром</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>на начальной и хронической стадии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>на хронической и поздней стадии</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>на всех 3-х стадиях курения</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 6600  -->
+  <question type="multichoice">
+    <name>
+      <text>э 50</text>
+    </name>
+    <questiontext format="html">
+      <text>Жизненная емкость легких (ЖЕЛ) - это</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>максимальный объем воздуха, вентилируемый в течение 1 минуты</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>объем воздуха, остающегося в легких после спокойного выдоха</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>максимальный объем воздуха, выдыхаемого из легких после максимального вдоха</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>максимальный объем воздуха, который можно вдохнуть после спокойного выдоха</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>объем вдыхаемого или выдыхаемого воздуха</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
